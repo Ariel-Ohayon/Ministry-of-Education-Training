@@ -1,0 +1,4 @@
+3d print - OnShape (free software for education)
+
+- Calc parameters (X,Y,Z) from all directions
+- 

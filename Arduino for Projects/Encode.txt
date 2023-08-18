@@ -1,0 +1,6 @@
+Unicode = 64[Bits] : כל התווים שקיימים
+ASCII = 8[Bits]
+
+BIT - Binary Digit
+
+Character Map Software in windows to understand encode character in embedded systems and computer.
